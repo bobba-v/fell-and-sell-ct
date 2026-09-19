@@ -1,5 +1,5 @@
 # fell-and-sell-ct
-Personal Fell &amp; Sell Cheat Table Collection
+Personal Fell &amp; Sell Cheat Table Collection for Cheat Engine
 
 Because there were no trainers/cts I created my own. Free of use for anyone as long as I'm willing to update it.
 
