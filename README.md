@@ -6,6 +6,12 @@ I created this table because I couldn't find a working trainer or Cheat Engine t
 
 Feel free to use it, modify it, and learn from it. As long as I'm still willing and able to update it, I'll try to keep it working with newer versions of the game.
 
+## Current Version
+
+**Game version:** `1.5.0`
+
+This table is currently made for **Fell & Sell v1.5.0**.
+
 ## Features
 
 ### Player Stats
@@ -34,7 +40,7 @@ Currently available:
 ## Requirements
 
 * [Cheat Engine](https://www.cheatengine.org/)
-* A compatible version of **Fell & Sell**
+* **Fell & Sell v1.5.0** or a compatible version
 
 ## Installation
 
