@@ -4,7 +4,7 @@ Personal Fell &amp; Sell Cheat Table Collection for Cheat Engine
 Because there were no trainers/cts I created my own. Free of use for anyone as long as I'm willing to update it.
 
 Features:
-- PlayerStats (If you know you can add more features yourself)
+- PlayerStats (Data structure included for dissecting)
 - Max Health
 - Current Health
 - Health Regen Rate
