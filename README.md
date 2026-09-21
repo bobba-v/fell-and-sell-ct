@@ -34,7 +34,6 @@ This table includes a structured `PlayerStats` data set for faster inspection an
 - Current Mana
 - Mana Regen Rate
 - Attack Speed Modifier
-- Current Base Scale
 
 ### What this table is for
 
